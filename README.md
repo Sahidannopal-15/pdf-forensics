@@ -25,6 +25,6 @@
 
 - Tools :
   
-  ExifTool
-  HxD 
-  SHA-256 Hash Generator 
+  ExifTool,
+  HxD, 
+  SHA-256 Hash Generator. 
